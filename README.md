@@ -1,6 +1,10 @@
 # practicum
 Data analyst student projects
 
+During the course I was using data to create hypotheses, design experiments, and interpret results. Worked a lot with Python, SQL and Tableau Public;
+
+As part of the course, I completed several projects:
+
 | name | description | skills&tools |
 | :-------------------- | :-------------------- |:--------------------|
 | AB_project.ipynb | In this project, I have studied the principles of event analytics. I built a sales funnel, researched the users' path to purchase. Analyzed the results of the A/B test for the introduction of new fonts. I compared 2 control groups with each other, made sure that the traffic was divided correctly, and then compared it with the test group. It was revealed that the new font will not significantly affect user behavior. | Python, Pandas, Matplotlib, SciPy, A/B testing, Product metrics, Statistical hypothesis testing |
