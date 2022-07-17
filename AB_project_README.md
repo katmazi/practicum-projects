@@ -1,26 +1,26 @@
 # practicum
 AB project description.
 
-**Задача**
-Вы работаете в стартапе, который продаёт продукты питания. Был проведет A/B эксперимент в рамках которого нужно оценить влияние нового шрифта на основные показатели(события). 
+**Description
+You work for a startup that sells food. There are the A/B experiment that was conducted previously. It is necessary to discover the impact of the new font on the main indicators (events). 
     
-**Описание данных:**
-Каждая запись в логе — это действие пользователя, или событие.\n",
+**Data description:**
+Each log entry is a user action or event:
 
-    * __EventName__ — название события;
-    * __DeviceIDHash__ — уникальный идентификатор пользователя;
-    * __EventTimestamp__ — время события;
-    * __ExpId__ — номер эксперимента: 246 и 247 — контрольные группы, а 248 — экспериментальная.
+    * __eventName__ — event name;
+    * __DeviceIDHash__ — unique user ID;
+    * __EventTimestamp__ — event time;
+    * __ExpId__ — experiment number: 246 and 247 are control groups, and 248 is experimental.
 
-**Стек проекта:**
+**Project Stack:**
 Matplotlib, Pandas, Plotly, Python, Seaborn.
 
-**Использованые знания навыки:**
-A/B-тестирование, проверка статистических гипотез, z-тест, продуктовые метрики, событийная аналитика
+****Knowledge and skills used:**
+A/B testing, statistical hypothesis testing, z-test, product metrics, event analytics
 
-**Ключевой вывод/результат проекта:** 
-Экспермент проведен корректно и его результатом является то, что изменение шрифта в приложении не влияет на конверсии пользователей в критически важные события.
+**Key conclusion/result of the project:** 
+The experiment was carried out correctly. The results is that changing the font in the application does not affect user conversions or other critical events.
 
-**Статус проекта:**
-Проект завершен и успешно сдан в установленые сроки. 
+**Project status:**
+The project has been successfully completed on time.
 
