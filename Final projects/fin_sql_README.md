@@ -7,6 +7,7 @@ AB project description.
     
 **Data description:**
 **Table books**
+
     - book_id — id of the book;
     - author_id — the author's ID;
     - title — the title of the book;
@@ -15,20 +16,24 @@ AB project description.
     - publisher_id — id of the publisher.
 
 **The authors table**
+
     - author_id — the author's ID;
     - author — the author's name.
 
 **Publishers table**
+
     - publisher_id — id of the publisher;
     - publisher — the name of the publisher;
 
 **Ratings table**
+
     - rating_id — rating ID;
     - book_id — id of the book;
     - username — the name of the user who left the rating;
     - rating — rating of the book.
 
 **Reviews table**
+
     - review_id — review ID;
     - book_id — id of the book;
     - username — the name of the review author;
