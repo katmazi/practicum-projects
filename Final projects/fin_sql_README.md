@@ -7,32 +7,32 @@ AB project description.
     
 **Data description:**
 **Table books**
-book_id — id of the book;
-author_id — the author's ID;
-title — the title of the book;
-num_pages — number of pages;
-publication_date — date of publication of the book;
-publisher_id — id of the publisher.
+    - book_id — id of the book;
+    - author_id — the author's ID;
+    - title — the title of the book;
+    - num_pages — number of pages;
+    - publication_date — date of publication of the book;
+    - publisher_id — id of the publisher.
 
 **The authors table**
-author_id — the author's ID;
-author — the author's name.
+    - author_id — the author's ID;
+    - author — the author's name.
 
 **Publishers table**
-publisher_id — id of the publisher;
-publisher — the name of the publisher;
+    - publisher_id — id of the publisher;
+    - publisher — the name of the publisher;
 
 **Ratings table**
-rating_id — rating ID;
-book_id — id of the book;
-username — the name of the user who left the rating;
-rating — rating of the book.
+    - rating_id — rating ID;
+    - book_id — id of the book;
+    - username — the name of the user who left the rating;
+    - rating — rating of the book.
 
 **Reviews table**
-review_id — review ID;
-book_id — id of the book;
-username — the name of the review author;
-text — the text of the review.
+    - review_id — review ID;
+    - book_id — id of the book;
+    - username — the name of the review author;
+    - text — the text of the review.
 
 **Project Stack:**
 PostgreSQL
