@@ -1,5 +1,4 @@
 # practicum
-AB project description.
 
 **Description:**
 We have to analyze data from fitness center clients and identify signs of users who are most likely to fall into churn. Also we have to cluster users and write recommendations for the groups.

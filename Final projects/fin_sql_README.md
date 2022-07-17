@@ -1,5 +1,4 @@
 # practicum
-AB project description.
 
 **Description:**
 
